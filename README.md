@@ -1,3 +1,11 @@
+
+# BLOG APP WITH NEXT JS AND GRAPHCMS
+
+A blog app made with Next Js, Tailwind CSS, and GraphCMS for the CMS
+
+
+## Deployment
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
